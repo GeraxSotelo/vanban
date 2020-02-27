@@ -74,7 +74,7 @@ a:hover {
   background: url("https://images.unsplash.com/photo-1558051815-0f18e64e6280?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=749&q=80")
     no-repeat center center fixed;
   background-size: cover;
-  min-height: 663px;
+  min-height: 100vh;
 }
 .delete-btn {
   position: absolute;

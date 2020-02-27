@@ -67,7 +67,6 @@ export default {
     no-repeat center center fixed;
   background-size: cover;
   background-repeat: no-repeat;
-  min-height: 663px;
 }
 .board-container {
   background: url("https://www.pngkit.com/png/full/10-108133_wood-png-transparent-image-png-arts-rustic-board.png")
